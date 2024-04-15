@@ -1,0 +1,41 @@
+{
+    "students" : [
+        {
+            "id": "1"
+        "sname" : "jane Smith "
+        "Sage" :"20",
+        "sphone" :"1234567890",
+        "sdept" : "BCA"
+        },
+        {
+            "id": "2"
+        "sname" : "dhilna "
+        "Sage" :"21",
+        "sphone" :"3344567890",
+        "sdept" : "cs"
+        },
+        {
+            "id": "3"
+        "sname" : "shifa "
+        "Sage" :"22",
+        "sphone" :"1234222890",
+        "sdept" : "MBA"
+        },
+        {
+            "id": "4"
+        "sname" : " Smitha "
+        "Sage" :"23",
+        "sphone" :"1234599890",
+        "sdept" : "BCA"
+        },
+        {
+            "id": "5"
+        "sname" : " savitha "
+        "Sage" :"52",
+        "sphone" :"22599890",
+        "sdept" : "cs"
+        }
+
+    ]
+}
+        
